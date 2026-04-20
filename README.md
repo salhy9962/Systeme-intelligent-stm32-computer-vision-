@@ -12,7 +12,8 @@ Implémentation FreeRTOS
 Gestion du keypad
 Radar (ultrason + servo)
 Contrôle de la porte
- Collègue :
+
+Mon Collègue :
 Computer Vision
 Capture d’image
 Envoi d’email
